@@ -37,10 +37,6 @@ Check out all my repositories for a variety of AI, ML, DL, and NLP projects!
 
 - [GitHub](https://github.com/talhatahir5270)
 - [LinkedIn](https://www.linkedin.com/in/talha-tahir-a1056830b) 
-- [Twitter/X](YOUR_TWITTER_URL)
-- [Personal Website/Portfolio](YOUR_WEBSITE_URL)
-
-*Replace links above with your actual social links from your GitHub profile!*
 
 ---
 
